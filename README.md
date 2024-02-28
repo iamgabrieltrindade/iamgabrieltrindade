@@ -22,22 +22,17 @@
   <img align="center" alt="Gabriel-sql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Gabriel-latex" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 
-      
-  
-  
 </div>
   
   <br/>
   
-## Social Networks
+## Linkedin and Personal Github
 
 <div>
+<a href = "https://github.com/tadsgabrieltrindade"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"   height="30" width="30" target="_blank"></>         
   <a href="https://www.linkedin.com/in/tadsgabrieltrindade" target="_new"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href = "mailto:gabriel.rtrindade@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></>
+
 </div>
 
   
 
-  
-
-![Snake animation](https://github.com/iamgabrieltrindade/iamgabrieltrindade/blob/output/github-contribution-grid-snake.svg)
