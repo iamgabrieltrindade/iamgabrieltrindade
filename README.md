@@ -36,13 +36,6 @@
   <a href = "mailto:gabriel.rtrindade@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></>
 </div>
 
-
-
-<div>
-  <a href="https://beacons.page/tadsgabrieltrindade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamgabrieltrindade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgabrieltrindade&layout=compact&langs_count=16&theme=dark"/>
-</div>
   
 
   
